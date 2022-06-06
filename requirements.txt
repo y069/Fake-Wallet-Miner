@@ -1,0 +1,6 @@
+requests
+colorama
+string
+time
+random
+subprocess
